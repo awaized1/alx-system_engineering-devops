@@ -1,8 +1,2 @@
-total 20
-drwxr-xr-x 2 root root 122 Mar 10 19:54 .
-drwxr-xr-x 4 root root  43 Mar 10 19:13 ..
--rw-r--r-- 1 root root  49 Mar 10 19:20 0-current_working_directory
--rw-r--r-- 1 root root  37 Mar 10 19:29 1-listit
--rw-r--r-- 1 root root   3 Mar 10 19:41 2-bring_me_home
--rw-r--r-- 1 root root 313 Mar 10 19:46 3-listfiles
--rw-r--r-- 1 root root  92 Mar 10 19:54 4-listmorefiles
+#!/bin/bash
+ls -al
